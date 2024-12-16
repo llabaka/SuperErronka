@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #AB7442;
+    --primary: #4f8dcf;
     --light: #F5F5F5;
     --dark: #353535;
 }
@@ -47,9 +47,15 @@
     transition: .5s;
 }
 
-.btn.btn-primary,
-.btn.btn-secondary {
-    color: #FFFFFF;
+.btn.btn-primary {
+    background-color: #4f8dcf;
+    color: white;
+    border-color: #007bff;
+}
+
+.btn.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
 }
 
 .btn-square {
