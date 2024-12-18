@@ -152,7 +152,7 @@
   @include border-bottom-radius($modal-content-inner-border-radius);
 
   // Place margin between footer elements
-  // This solution is far from ideal because of the universal selector usage,
+  // This solution is far from ideal because of the universal selector EHge,
   // but is needed to fix https://github.com/twbs/bootstrap/issues/24800
   > * {
     margin: $modal-footer-margin-between / 2;

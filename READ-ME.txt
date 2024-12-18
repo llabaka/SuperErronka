@@ -1,11 +1,11 @@
   =>  Template Name    : VinculaDos
 
-  =>  Template Link    : https://htmlcodex.com/carpenter-website-template-free
+  =>  Template Link    : index.html/carpenter-website-template-free
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : index.html/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : VinculaDos
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : index.html
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About VinculaDos : VinculaDos is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( index.html/about-us )

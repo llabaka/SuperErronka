@@ -304,7 +304,7 @@
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
     .about-text  {
         padding-right: calc(((100% - 1140px) / 2) + .75rem);
     }
@@ -338,7 +338,7 @@
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
     .feature-text  {
         padding-left: calc(((100% - 1140px) / 2) + .75rem);
     }
@@ -414,7 +414,7 @@
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
     .quote-text  {
         padding-right: calc(((100% - 1140px) / 2) + .75rem);
     }
@@ -553,7 +553,7 @@
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 120px) {
     .contact-text  {
         padding-left: calc(((100% - 1140px) / 2) + .75rem);
     }
